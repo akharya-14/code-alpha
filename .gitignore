@@ -1,0 +1,5 @@
+node_modules/
+urls.db
+urls.db-shm
+urls.db-wal
+.env
